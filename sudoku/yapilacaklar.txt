@@ -1,0 +1,20 @@
+ui                                   tamam
+ui dan listeye                       tamam
+sudoku algoritması                      TAMAM
+    satir sutun kare olustur         tamam
+    gelebilecek satir sutun kare    tamam
+    tek algoritmasi                 tamam
+    ozel algoritmalar               tamam
+        2li`                    tamam
+        3lu                     tamam
+        kazik                   tamam
+        nli?                        tamam
+
+    sudoku coz                      tamam
+
+sudokunun sonucu goster
+sonuc butonu
+yuklenme ekrani?
+tema?
+
+
